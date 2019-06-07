@@ -13,5 +13,13 @@
   "author": "volodymyrmordas",
   "license": "ISC",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolodymyrMordas/validation-simple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VolodymyrMordas/validation-simple/issues"
+  },
+  "homepage": "https://github.com/VolodymyrMordas/validation-simple#readme"
 }
