@@ -1,0 +1,17 @@
+{
+  "name": "@volodymyrmordas/validation-simple",
+  "version": "1.0.0",
+  "description": "simple validation for project",
+  "main": "src/validation.utils.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "validation",
+    "simple"
+  ],
+  "author": "volodymyrmordas",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
